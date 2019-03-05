@@ -1,0 +1,77 @@
+.rankig_img{
+  width: 200px;
+  margin: 0 auto;
+}
+
+h2{
+  text-align: center;
+  font-size: 3em;
+  color: #3b3b3b;
+}
+
+.rinking_description{
+  margin:0 auto;
+  width: 850px;
+ /* padding-top: 10px;*/
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.content{
+  width: 960px;
+  margin:0 auto;
+}
+
+.rank{
+  font-size: 1.5em;
+  color:#3bb400;
+  font-weight: bold;
+}
+
+.container{
+  display: flex;
+  width: 960px;
+  height: 280px;
+  display: flex;
+  border: solid 1px #ccc;
+  margin-bottom: 50px;
+}
+
+
+.left img{
+  width:280px;
+  height:280px;
+  vertical-align: top;
+}
+
+.right{
+  width: 680px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.star-rating{
+  width: 200px;
+}
+
+.score{
+  display: flex;
+}
+
+.score_point p{
+  width: 280px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 1.8em;
+  color: #8a8686;
+}
+
+.item_name{
+ /* margin-top: 10px;*/
+  margin-bottom: 10px;
+}
+
+
+
+
+
